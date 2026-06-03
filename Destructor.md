@@ -24,6 +24,7 @@ The program defines a class `Demo` with:
 Add code Here
 
 ## 🧪 Output
+<img width="717" height="147" alt="image" src="https://github.com/user-attachments/assets/5ed79636-81a1-4544-b2d2-c40f94b5f3df" />
 
 ## Result
 
